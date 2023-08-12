@@ -206,11 +206,13 @@ Contact Page
     position: relative;
   }
 }
-.sectionBottom {
-  padding: 2rem 0 4rem;
+.sectionContact {
+  padding: 2rem 0 9rem;
   scroll-margin-top: 4rem;
-  background: var(--clr-darkwhite);
+  
+  
 }
+
 .section-center {
   width: 90vw;
   margin: 0 auto;
@@ -221,6 +223,8 @@ Contact Page
     width: 95vw;
   }
 }
+
+
 /*
 =============== 
 HeroSecond

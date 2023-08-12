@@ -3,6 +3,7 @@ To change the cover try having the all the kids with bro in Hero background
 Make sure to look at line 207-210
 make sure to look at the video 62 Hero and components to add that image
 
+References for website ideas on fitness 
 https://www.upnext-basketball.com/our-story-youth-basketball
 
 https://swainbasketballacademy.com/

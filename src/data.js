@@ -7,7 +7,7 @@ export const pageLinks = [
     { id:1, href: '/', text: 'home' },
     { id:2, href: '/about', text: 'about' },
     { id:3, href: '/services', text: 'training'},
-    { id:4, href: '/tours', text: 'contact' },
+    { id:4, href: '/contact', text: 'contact' },
     
 
 
