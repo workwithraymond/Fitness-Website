@@ -7,6 +7,7 @@ import Services from "./components/Services";
 import TopAbout from "./components/TopAbout";
 import Tours from "./components/Tours";
 import Contact from "./components/Contact";
+import Testimonials from "./components/Testimonials";
 import React from 'react';
 import {Routes, Route} from 'react-router-dom'
 
@@ -21,6 +22,7 @@ function App() {
       <Route path="/TopAbout" element={<TopAbout/>} />
       <Route path="/about" element={<About/>} />
       <Route path="/services" element={<Services/>} />
+      <Route path="/testimonials" element={<Testimonials/>} />
       <Route path="/tours" element={<Tours/>} />
       <Route path="/contact" element={<Contact/>} />
       <Route path="/footer" element={<Footer/>} />

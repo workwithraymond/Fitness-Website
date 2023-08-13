@@ -10,7 +10,7 @@ export const Hero = () => {
         <p>
           Become a More Confident And Better Athlete
         </p>
-        <a href="#tours" className="btn hero-btn">Learn More</a>
+        <a href="#tours" className="btnHero hero-btn">Learn More</a>
       </div>
 
 
