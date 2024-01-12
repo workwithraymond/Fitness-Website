@@ -73,6 +73,7 @@ img:not(.nav-logo) {
   display: block;
 }
 
+
 h1,
 h2,
 h3,
@@ -100,7 +101,7 @@ p {
 }
 @media screen and (min-width: 800px) {
   h1 {
-    font-size: 4rem;
+    font-size: 3rem;
   }
   h2 {
     font-size: 2.5rem;
@@ -297,6 +298,8 @@ Hero
 }
 .hero-banner h1 {
   text-transform: uppercase;
+  font-size: 4rem;
+  font-style: italic;
 }
 .hero-banner p {
   max-width: 35rem;
@@ -711,14 +714,14 @@ color: #3538dc;
   max-width: 800px;
   position: relative;
   height: 450px;
- overflow: hidden;
+  overflow: hidden;
 }
 .slide {
   text-align: center;
   position: absolute;
   top: 0;
   left: 0;
-  width: 100%;
+  width: 10%;
   height: 100%;
   transition: var(--transition);
 }
@@ -730,6 +733,8 @@ color: #3538dc;
   object-fit: cover;
   border: 4px solid var(--primary-200);
   box-shadow: var(--shadow-3);
+  
+  ;
 }
 
 .name {
@@ -799,6 +804,7 @@ color: #3538dc;
 .slick-container {
   margin: 0 auto;
   margin-top: 10rem;
+  margin-bottom: 4rem;
   width: 80vw;
   max-width: 800px;
   text-align: center;
